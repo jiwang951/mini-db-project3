@@ -4,4 +4,4 @@ cmake_minimum_required(VERSION 3.10)
 project(MiniDB CXX)
 
 # 设置可执行文件
-add_executable(minidb mini_db.cpp)
+add_executable(observer mini_db.cpp)
